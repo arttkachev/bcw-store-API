@@ -1,0 +1,17 @@
+{
+  "name": "bcw-store",
+  "version": "1.0.0",
+  "description": "bcw-store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Artem Tkachev",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.6"
+  }
+}
